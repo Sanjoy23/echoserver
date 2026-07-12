@@ -1,0 +1,14 @@
+D:\Sanjoy\My Porject\EchoServer\EchoServer\bin\Debug\net8.0\EchoServer.exe
+D:\Sanjoy\My Porject\EchoServer\EchoServer\bin\Debug\net8.0\EchoServer.deps.json
+D:\Sanjoy\My Porject\EchoServer\EchoServer\bin\Debug\net8.0\EchoServer.runtimeconfig.json
+D:\Sanjoy\My Porject\EchoServer\EchoServer\bin\Debug\net8.0\EchoServer.dll
+D:\Sanjoy\My Porject\EchoServer\EchoServer\bin\Debug\net8.0\EchoServer.pdb
+D:\Sanjoy\My Porject\EchoServer\EchoServer\obj\Debug\net8.0\EchoServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sanjoy\My Porject\EchoServer\EchoServer\obj\Debug\net8.0\EchoServer.AssemblyInfoInputs.cache
+D:\Sanjoy\My Porject\EchoServer\EchoServer\obj\Debug\net8.0\EchoServer.AssemblyInfo.cs
+D:\Sanjoy\My Porject\EchoServer\EchoServer\obj\Debug\net8.0\EchoServer.csproj.CoreCompileInputs.cache
+D:\Sanjoy\My Porject\EchoServer\EchoServer\obj\Debug\net8.0\EchoServer.dll
+D:\Sanjoy\My Porject\EchoServer\EchoServer\obj\Debug\net8.0\refint\EchoServer.dll
+D:\Sanjoy\My Porject\EchoServer\EchoServer\obj\Debug\net8.0\EchoServer.pdb
+D:\Sanjoy\My Porject\EchoServer\EchoServer\obj\Debug\net8.0\EchoServer.genruntimeconfig.cache
+D:\Sanjoy\My Porject\EchoServer\EchoServer\obj\Debug\net8.0\ref\EchoServer.dll
